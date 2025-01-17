@@ -39,5 +39,5 @@ Hasil analisis meliputi:
 - Evaluasi model menggunakan metrik akurasi, precision, recall, dan F1-score
 
 
-🚀 **Semoga bermanfaat!**
+🚀 **Terima kasih!**
 
